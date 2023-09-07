@@ -57,11 +57,11 @@ namespace TodoList.Api
 );
             services.AddSignalR();
 
-            services.AddCronJob<TaskCronJob>(c =>
-            {
-                c.TimeZoneInfo = TimeZoneInfo.Local;
-                c.CronExpression = @"*/1 * * * *";
-            });
+            // services.AddCronJob<TaskCronJob>(c =>
+            // {
+            //     c.TimeZoneInfo = TimeZoneInfo.Local;
+            //     c.CronExpression = @"*/1 * * * *";
+            // });
 
             services.AddSwaggerGen(c =>
             {

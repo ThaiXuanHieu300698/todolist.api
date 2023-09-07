@@ -1,6 +1,5 @@
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\appsettings.json
-H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\TodoList.Api.exe
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\TodoList.Api.deps.json
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\TodoList.Api.runtimeconfig.json
@@ -54,7 +53,6 @@ H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\System.Composition.Host
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-H:\RedSand-Training\TodoList.Api\obj\Debug\netcoreapp3.1\TodoList.Api.csprojAssemblyReference.cache
 H:\RedSand-Training\TodoList.Api\obj\Debug\netcoreapp3.1\TodoList.Api.AssemblyInfoInputs.cache
 H:\RedSand-Training\TodoList.Api\obj\Debug\netcoreapp3.1\TodoList.Api.AssemblyInfo.cs
 H:\RedSand-Training\TodoList.Api\obj\Debug\netcoreapp3.1\TodoList.Api.csproj.CoreCompileInputs.cache
@@ -82,3 +80,5 @@ H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mv
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\Cronos.dll
 H:\RedSand-Training\TodoList.Api\bin\Debug\netcoreapp3.1\NCrontab.dll
+H:\RedSand-Training\TodoList.Api\obj\Debug\netcoreapp3.1\TodoList.Api.csproj.AssemblyReference.cache
+H:\RedSand-Training\TodoList.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\TodoList.Api.styles.css

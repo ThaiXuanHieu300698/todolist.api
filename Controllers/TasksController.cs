@@ -196,7 +196,7 @@ namespace TodoList.Api.Controllers
             {
                 Name = file.FileName,
                 Size = file.Length,
-                Type = file.FileName.Split('.')[1],
+                Type = file.FileName.Substring(file.FileName.LastIndexOf('.') + 1),
                 Path = await this.SaveFile(file),
                 TaskId = taskId,
             };

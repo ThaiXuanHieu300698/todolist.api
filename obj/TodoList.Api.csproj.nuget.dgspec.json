@@ -10,14 +10,14 @@
         "projectUniqueName": "H:\\RedSand-Training\\TodoList.Api\\TodoList.Api.csproj",
         "projectName": "TodoList.Api",
         "projectPath": "H:\\RedSand-Training\\TodoList.Api\\TodoList.Api.csproj",
-        "packagesPath": "C:\\Users\\Hieu XT\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\laptr\\.nuget\\packages\\",
         "outputPath": "H:\\RedSand-Training\\TodoList.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hieu XT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\laptr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Cronos": {
               "target": "Package",
@@ -128,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
